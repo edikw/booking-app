@@ -2,27 +2,18 @@
 
 ## Project setup
 ```
+git clone https://github.com/edikw/booking-app.git
+
+change directory booking-app
+
 npm install
 
-install expo in your smartphone to running this app
 ```
 
 ### Compiles and hot-reloads for development
 ```
-npm run serve
-```
+npm start
 
-### Compiles and minifies for production
-```
-npm run build
-```
+install expo in your smartphone to running this app
 
-### Run your tests
-```
-npm run test
-```
-
-### Lints and fixes files
-```
-npm run lint
 ```
